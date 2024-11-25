@@ -1,7 +1,3 @@
-main {
-    max-width: 90%;
-}<!-- código omitido →
-
 <body>
     <main>
         <div class="passo ativo" id="passo-0">
